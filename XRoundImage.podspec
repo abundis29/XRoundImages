@@ -25,7 +25,7 @@ Quick Round or Border Images in Swift IOS apps, Install this into your project t
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Ivan Abundis 👑' => 'heysoyivan@gmail.com' }
-  s.source           = { :git => 'https://github.com/abundis29/XRoundImages.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/abundis29/XRoundImages.git', :branch => "master", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/heysoyivan_'
 
   s.ios.deployment_target = '8.0'
