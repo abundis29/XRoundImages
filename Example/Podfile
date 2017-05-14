@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XRoundImage_Example' do
+  pod 'XRoundImage', :path => '../'
+
+  target 'XRoundImage_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
