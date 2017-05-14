@@ -1,0 +1,6 @@
+framework module Pods_XRoundImage_Tests {
+  umbrella header "Pods-XRoundImage_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

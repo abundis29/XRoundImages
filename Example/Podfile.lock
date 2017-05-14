@@ -1,0 +1,16 @@
+PODS:
+  - XRoundImage (0.1.0)
+
+DEPENDENCIES:
+  - XRoundImage (from `../`)
+
+EXTERNAL SOURCES:
+  XRoundImage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XRoundImage: 73baad09bc178ea825f72009284da14cc0787629
+
+PODFILE CHECKSUM: 82169ee9b5cf4f356caa83266792f2a09bf6d93a
+
+COCOAPODS: 1.2.1

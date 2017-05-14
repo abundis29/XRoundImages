@@ -1,0 +1,6 @@
+framework module XRoundImage {
+  umbrella header "XRoundImage-umbrella.h"
+
+  export *
+  module * { export * }
+}
