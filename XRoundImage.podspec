@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XRoundImage'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'Quick Round or Border Images in Swift IOS apps'
 
 # This description is used to generate tags and improve search results.
