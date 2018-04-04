@@ -22,7 +22,7 @@ pod "XRoundImage"
 
 ## Author
 
-ivan.abundis@digitalonus.com, heysoyivan@gmail.com
+heysoyivan@gmail.com
 
 ## License
 
