@@ -20,6 +20,8 @@ it, simply add the following line to your Podfile:
 pod "XRoundImage"
 ```
 
+https://www.youtube.com/watch?v=A6GJkHl5Q8M
+
 ## Author
 
 heysoyivan@gmail.com
